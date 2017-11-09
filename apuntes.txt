@@ -1,0 +1,6 @@
+Extensiones:
+	- Sets adicionales de instrucciones para los procesadores, para que ejecuten
+	nuevas operaciones.
+	- AVX extensions:
+		Extensiones para manejar audio y video en procesadores (multimedia).
+
